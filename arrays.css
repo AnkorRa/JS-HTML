@@ -1,0 +1,10 @@
+body{
+    background-color: #aaf;
+}
+
+h1 
+{
+    color: #aaf;
+    box-shadow: 10px 10px 8px rgb(80, 80, 80);
+    border-radius: 5px;
+    background-color: #ffa }
